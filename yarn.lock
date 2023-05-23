@@ -5712,6 +5712,11 @@ react-native-ble-manager@^10.0.2:
   resolved "https://registry.yarnpkg.com/react-native-ble-manager/-/react-native-ble-manager-10.0.2.tgz#92c4d4063925f6efc89635a67f48b404c1a29b20"
   integrity sha512-6KlaL/fBvAlk11Yt9zlTnZqfdtGLQCECUaX5Y3E+DZ5BE6LmQ4u7Zvy59bM4TdR2a5UcK+8mNK3XWLjke+QfKw==
 
+react-native-ble-plx@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/react-native-ble-plx/-/react-native-ble-plx-2.0.3.tgz#b0a746f33389dbf7fd7b158513330d487d5d0fbb"
+  integrity sha512-62LRDBPf/03K7sge+qq2ZuF8PWCGB782G+SBrpgNm5fA5Hs3FCY1ExTJZ1G0tB5ZhBPYEXcKRxPLuFegcDFrqA==
+
 react-native-codegen@^0.71.5:
   version "0.71.5"
   resolved "https://registry.yarnpkg.com/react-native-codegen/-/react-native-codegen-0.71.5.tgz#454a42a891cd4ca5fc436440d301044dc1349c14"
